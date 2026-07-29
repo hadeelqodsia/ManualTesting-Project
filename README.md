@@ -14,6 +14,12 @@
   <img src="https://img.shields.io/badge/Made%20with-Excel%20%7C%20Word-orange?style=flat-square" alt="Made with"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Hatamleh/qacart-app-todo">
+    <img src="https://img.shields.io/badge/Application%20Under%20Test-qacart--app--todo-181717?style=flat-square&logo=github&logoColor=white" alt="Application Repository"/>
+  </a>
+</p>
+
 > 📌 Complete QA deliverables for the **ToDo List Application** — test plan, manual test cases, bug reports, and a test summary report, produced as part of a manual testing / QA engineering practice cycle.
 
 ---
@@ -32,6 +38,9 @@
 ## 🎯 Project Overview
 
 The **ToDo List Application** is a task management web app supporting user registration, login, and full task CRUD functionality. This repository documents the **manual QA testing cycle** performed against it, following a structured test plan and reporting process.
+
+> 🔗 **Original Application Repository:** [Hatamleh/qacart-app-todo](https://github.com/Hatamleh/qacart-app-todo)
+> This QA documentation was produced as part of the Manual Testing course with **Hatem Hatamleh (QAcart)**, testing against the application built for the course.
 
 ---
 
@@ -97,9 +106,15 @@ Test Plan  →  Test Case Design  →  Test Execution  →  Bug Reporting  →  
 QA / Manual Testing • Front-End Development • UX/UI Design
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/eng-hadeel-qodseya-74195a210">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.behance.net/hadeelqodsia">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white"/>
+  </a>
 </p>
+
+📚 QA documentation produced during the **Manual Testing Course** by **[Hatem Hatamleh](https://github.com/Hatamleh)** — application under test: [qacart-app-todo](https://github.com/Hatamleh/qacart-app-todo)
 
 ---
 
